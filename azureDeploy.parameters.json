@@ -38,6 +38,9 @@
         "inputHubNameLAD": {
             "value": "insights-telemetry-lad"
         },
+        "inputHubNameAzureAD": {
+            "value": "insights-logs-azuread"
+        },
         "splunkToken": {
             "value": "4BC788E0-YOUR-GUID-HERE-733EBC656112"
         },
