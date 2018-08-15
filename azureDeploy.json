@@ -75,6 +75,10 @@
             "type": "string",
             "defaultValue": "insights-telemetry-lad"
         },
+        "inputHubNameAzureAD": {
+            "type": "string",
+            "defaultValue": "insights-logs-azuread"
+        },
         "splunkToken": {
             "type": "string"
         },
@@ -201,6 +205,10 @@
                         {
                             "name": "input-hub-name-lad",
                             "value": "[parameters('inputHubNameLAD')]"
+                        },
+                        {
+                            "name": "insights-logs-azuread",
+                            "value": "[parameters('inputHubNameAzureAD')]"
                         },
                         {
                             "name": "splunkToken",
