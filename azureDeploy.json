@@ -207,7 +207,7 @@
                             "value": "[parameters('inputHubNameLAD')]"
                         },
                         {
-                            "name": "insights-logs-azuread",
+                            "name": "input-hub-name-azuread-logs",
                             "value": "[parameters('inputHubNameAzureADLogs')]"
                         },
                         {
