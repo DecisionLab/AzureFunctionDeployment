@@ -29,7 +29,7 @@
         },
         "appInsightsLocation": {
             "type": "string",
-            "defaultValue": "North Europe",
+            "defaultValue": "West US 2",
             "allowedValues": [
                 "North Europe",
                 "West Europe",
@@ -41,7 +41,7 @@
         },
         "appInsightsName": {
             "type": "string",
-            "defaultValue": "appInsightsInstance"
+            "defaultValue": "appInsightsInstanceEventsToSplunk"
         },
         "githubRepoURL": {
             "type": "string",
