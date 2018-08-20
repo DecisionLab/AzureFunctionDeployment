@@ -214,6 +214,10 @@
                             "name": "input-hub-name-azuread-logs",
                             "value": "[parameters('inputHubNameAzureADLogs')]"
                         },
+                         {
+                            "name": "input-hub-name-exchange-logs",
+                            "value": "[parameters('inputHubNameExchangeLogs')]"
+                        },
                         {
                             "name": "splunkToken",
                             "value": "[parameters('splunkToken')]"
