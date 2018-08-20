@@ -41,6 +41,9 @@
         "inputHubNameAzureADLogs": {
             "value": "insights-logs-azuread"
         },
+        "inputHubNameExchangeLogs": {
+            "value" : "insights-logs-exchange"
+        },
         "splunkToken": {
             "value": "4BC788E0-YOUR-GUID-HERE-733EBC656112"
         },
