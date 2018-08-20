@@ -79,6 +79,10 @@
             "type": "string",
             "defaultValue": "insights-logs-azuread"
         },
+        "inputHubNameExchangeLogs": {
+            "type": "string",
+            "defaultValue": "insights-logs-exchange"
+        },
         "splunkToken": {
             "type": "string"
         },
