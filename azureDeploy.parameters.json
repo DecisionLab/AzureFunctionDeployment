@@ -44,6 +44,9 @@
         "inputHubNameExchangeLogs": {
             "value" : "insights-logs-exchange"
         },
+        "inputHubNameLADLogs": {
+            "value" : "insights-logs-LAD"
+        },
         "splunkToken": {
             "value": "4BC788E0-YOUR-GUID-HERE-733EBC656112"
         },
