@@ -85,7 +85,7 @@
         },
         "inputHubNameLADLogs": {
             "type": "string",
-            "defaultValue": "insights-logs-lad"
+            "defaultValue": "input-hub-name-lad-logs"
         },
         "splunkToken": {
             "type": "string"
@@ -223,7 +223,7 @@
                             "value": "[parameters('inputHubNameExchangeLogs')]"
                         },
                         {
-                            "name": "insights-logs-lad",
+                            "name": "input-hub-name-lad-logs,
                             "value": "[parameters('inputHubNameLADLogs')]"
                         },  
                         {
