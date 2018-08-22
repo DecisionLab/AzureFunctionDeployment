@@ -223,7 +223,7 @@
                             "value": "[parameters('inputHubNameExchangeLogs')]"
                         },
                         {
-                            "name": "input-hub-name-lad-logs,
+                            "name": "input-hub-name-lad-logs",
                             "value": "[parameters('inputHubNameLADLogs')]"
                         },  
                         {
