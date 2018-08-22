@@ -85,7 +85,7 @@
         },
         "inputHubNameLADLogs": {
             "type": "string",
-            "defaultValue": "input-hub-name-lad-logs"
+            "defaultValue": "insights-logs-lad"
         },
         "splunkToken": {
             "type": "string"
